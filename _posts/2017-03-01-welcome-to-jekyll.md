@@ -1,5 +1,5 @@
 ---
-title: "CUSTOM TSHIRT"
+title: "Custom"
 layout: post
 ---
 
