@@ -1,10 +1,11 @@
 ---
-title: "Welcome to Chung's Website"
+title: "CUSTOM TSHIRT"
 layout: post
 ---
 
-WELCOME TO MY WEBSITE!!
-STAY AS LONG AS YOU WANT!!
+(insert pic) Short Sleeves
+(insert pic) Long Sleeves
+(insert pic) Sweaters
+(insert pic) Hoodies
 
-My website is Your website.
-LALALalalallala
+Make your own custom shirts here.
