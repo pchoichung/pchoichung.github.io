@@ -3,7 +3,7 @@ title: "Custom"
 layout: post
 ---
 
-![My Logo](images/logo.png) Short Sleeves
+![My Logo](images/testing.jpg) Short Sleeves
 (insert pic) Long Sleeves
 (insert pic) Sweaters
 (insert pic) Hoodies
