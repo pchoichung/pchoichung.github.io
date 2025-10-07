@@ -3,6 +3,13 @@ title: "Popular Designs"
 layout: post
 ---
 
+
+<img src="images/team1.jpg" width="100" height="200">
+<img src="images/team2.webp" width="100" height="200">
+<img src="images/team3.jpg" width="100" height="200">
+<img src="images/team4.webp" width="100" height="200">
+
+
 (insert pic) Sports and Uniform
 (insert pic) Busniess/Company Branding
 (insert pic) Hobbies
