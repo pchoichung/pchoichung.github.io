@@ -4,7 +4,6 @@ layout: post
 ---
 
 ![My Logo](images/logo1.png) 
-![My Logo](images/logo2.jfif) 
 ![My Logo](images/logo3.jpg) 
 ![My Logo](images/logo4.png) 
 
