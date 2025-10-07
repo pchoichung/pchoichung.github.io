@@ -24,6 +24,7 @@ navigation:                     # accepts {file, title, url, icon, sidebaricon}
 external:                       # accepts {file, title, url, icon, sidebaricon}
   - {title: Mail, icon: envelope, url: "mailto:pchung2@ivytech.edu"}
   - {title: Github, icon: github, url: "https://github.com/pchoichung"}
+  - {title: Facebook, icon: facebook, url: "https://facbook.com"}
   - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
