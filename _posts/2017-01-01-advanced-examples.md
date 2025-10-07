@@ -1,5 +1,5 @@
 ---
-title: "Trending Shirts"
+title: "Trending"
 layout: post
 ---
 
