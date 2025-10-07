@@ -4,7 +4,9 @@ layout: post
 ---
 
 
-<img src="images/logo1.png" width="300" height="200">
+<img src="images/logo1.png" width="200" height="100">
+<img src="images/logo3.jpg" width="200" height="100">
+<img src="images/logo4.png" width="200" height="100">
 ![My Logo](images/logo1.png) 
 ![My Logo](images/logo1.png) 
 ![My Logo](images/logo3.jpg) 
