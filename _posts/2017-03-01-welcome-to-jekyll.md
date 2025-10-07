@@ -3,6 +3,8 @@ title: "Custom"
 layout: post
 ---
 
+
+<img src="images/logo1.png" width="300" height="200">
 ![My Logo](images/logo1.png) 
 ![My Logo](images/logo1.png) 
 ![My Logo](images/logo3.jpg) 
